@@ -8,4 +8,4 @@ Realm|Course|Link|Progress|
 Realm|Course|Link|Progress|
 |--|--|--|--|
 |Data Structure|/|[Leetcode Hot 100](https://github.com/RuiqiTang/Leetcode-Hot-100)|Building|
-|Mysql|/|Niuke_mysql|Building|
+|Mysql|/|[Niuke_mysql](https://github.com/RuiqiTang/Niuke_mysql)|Building|
