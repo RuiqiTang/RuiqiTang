@@ -9,3 +9,8 @@ Realm|Course|Link|Progress|
 |--|--|--|--|
 |Data Structure|/|[Leetcode Hot 100](https://github.com/RuiqiTang/Leetcode-Hot-100)|Building|
 |Mysql|/|[Niuke_mysql](https://github.com/RuiqiTang/Niuke_mysql)|Building|
+
+## Homework Submission
+Course|Link|
+|--|--|
+|神经网络与深度学习|[Deep Learning HW Submission - 2025 Spring](https://github.com/RuiqiTang/Deep_Learning_2025_Spring_Lesson_Homworks_Submission/tree/main)|
