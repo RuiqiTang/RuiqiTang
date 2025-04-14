@@ -1,6 +1,6 @@
 ## Projects
 ## Notes Sharing
-｜Realm|Course|Link|Progress|
+Realm|Course|Link|Progress|
 |--|--|--|--|
 |Finance|CFA-I|[First Level CFA Mindmaps](https://github.com/RuiqiTang/CFA-I-Mindmaps)|Building|
 
