@@ -3,6 +3,7 @@
 Realm|Course|Link|Progress|
 |--|--|--|--|
 |Finance|CFA-I|[First Level CFA Mindmaps](https://github.com/RuiqiTang/CFA-I-Mindmaps)|Building|
+|(Mostly...) Deep Larning|/|[Paper Reading](https://github.com/RuiqiTang/Paper-Reading-Archieve)|Building|
 
 ## Drill on coding
 Realm|Course|Link|Progress|
