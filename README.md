@@ -1,4 +1,4 @@
-<img src="./quanxue.png" alt="" width="200">
+<img src="quanxue.jpg" alt="" width="200">
 
 ## Projects
 ## Notes Sharing
