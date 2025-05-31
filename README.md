@@ -1,5 +1,3 @@
-<img src="quanxue.jpg" alt="" width="200">
-
 ## Projects
 ## Notes Sharing
 Realm|Course|Link|Progress|
