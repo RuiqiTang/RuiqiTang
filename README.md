@@ -14,6 +14,6 @@ Realm|Course|Link|Progress|
 ## Homework Submission
 Course|Link|
 |--|--|
-|神经网络与深度学习Howework|[Deep Learning HW Submission - 2025 Spring](https://github.com/RuiqiTang/Deep_Learning_2025_Spring_Lesson_Homworks_Submission/tree/main)|
-|神经网络与深度学习Mid Project|[2025_DL_Mid](https://github.com/RuiqiTang/2025_Spring_DL_Mid.git)|
+|NN&DL_Howework|[Deep Learning HW Submission - 2025 Spring](https://github.com/RuiqiTang/Deep_Learning_2025_Spring_Lesson_Homworks_Submission/tree/main)|
+|NN&DL_Mid Project|[2025_DL_Mid](https://github.com/RuiqiTang/2025_Spring_DL_Mid.git)|
 |AIML_Final_pj|[2025 AI&ML Final](https://github.com/QianRMB/AIML.git)|
