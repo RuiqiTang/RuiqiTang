@@ -1,4 +1,5 @@
 ## Projects
+- [Learning Agents](https://github.com/RuiqiTang/Learning-Agents):demonstrating my solidified review mode through the application of ai agents
 ## Notes Sharing
 Realm|Course|Link|Progress|
 |--|--|--|--|
