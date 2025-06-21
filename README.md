@@ -1,5 +1,6 @@
 
-[![TR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chrouos&bg_color=f7f7f7&color=3b3b3b&line=d8abab&point=a80000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![TR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuiqiTang&bg_color=f7f7f7&color=3b3b3b&line=d8abab&point=a80000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Projects
 - [Learning Agents](https://github.com/RuiqiTang/Learning-Agents):demonstrating my solidified review mode through the application of ai agents
 ## Notes Sharing
