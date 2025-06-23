@@ -1,10 +1,10 @@
 
 [![TR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuiqiTang&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Current Main Focus
-1. [Learning HPC(including CUDA)](https://github.com/RuiqiTang/Learning_HPC)
-2. [Learning to Construct Quant System](https://github.com/RuiqiTang/Learning_Quant_System_Construction)
-3. Learning vLLM
+> ## Current Main Focus
+> 1. [Learning HPC(including CUDA)](https://github.com/RuiqiTang/Learning_HPC)
+> 2. [Learning to Construct Quant System](https://github.com/RuiqiTang/Learning_Quant_System_Construction)
+> 3. Learning vLLM
 
 ## Projects
 - [Learning Agents](https://github.com/RuiqiTang/Learning-Agents):demonstrating my solidified review mode through the application of ai agents
