@@ -1,6 +1,6 @@
 
 [![TR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuiqiTang&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqitang)](https://github.com/anuraghazra/github-readme-stats)
 ## Current Main Focus
 1. [Learning HPC(including CUDA)](https://github.com/RuiqiTang/Learning_HPC)
 2. [Learning to Construct Quant System](https://github.com/RuiqiTang/Learning_Quant_System_Construction)
