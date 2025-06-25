@@ -6,20 +6,6 @@
 2. [Learning to Construct Quant System](https://github.com/RuiqiTang/Learning_Quant_System_Construction)
 3. Learning vLLM
 
-## Projects
-- [Learning Agents](https://github.com/RuiqiTang/Learning-Agents):demonstrating my solidified review mode through the application of ai agents
-## Notes Sharing
-Realm|Course|Link|Progress|
-|--|--|--|--|
-|Finance|CFA-I|[First Level CFA Mindmaps](https://github.com/RuiqiTang/CFA-I-Mindmaps)|Building|
-|(Mostly...) Deep Larning|/|[Paper Reading](https://github.com/RuiqiTang/Paper-Reading-Archieve)|Building|
-
-## Drill on coding
-Realm|Course|Link|Progress|
-|--|--|--|--|
-|Data Structure|/|[Leetcode Hot 100](https://github.com/RuiqiTang/Leetcode-Hot-100)|Building|
-|Mysql|/|[Niuke_mysql](https://github.com/RuiqiTang/Niuke_mysql)|Building|
-
 ## Homework Submission
 Course|Link|
 |--|--|
